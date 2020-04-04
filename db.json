@@ -1,12 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1 dari ishak" },
+    { "id": 2, "title": "Post 2 dari is" },
+    { "id": 3, "title": "Post 3 dari hakk" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment 123", "postId": 1 },
+    { "id": 2, "body": "some comment 245", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
